@@ -1,0 +1,27 @@
+{
+    "status": "ON",
+    "max_devices": 3,
+    "keys": [
+        {
+            "key": "TEST_KEY_001",
+            "expiry": "2026-12-31",
+            "max_devices": 3,
+            "type": "PREMIUM",
+            "offset": 2
+        },
+        {
+            "key": "BASIC_KEY_001",
+            "expiry": "2026-12-31",
+            "max_devices": 1,
+            "type": "FREE",
+            "offset": 0
+        },
+        {
+            "key": "PRO_KEY_001",
+            "expiry": "2026-12-31",
+            "max_devices": 2,
+            "type": "PREMIUM",
+            "offset": 1
+        }
+    ]
+}
