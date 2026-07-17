@@ -2,7 +2,7 @@
     "status": "ON",
     "keys": [
         {
-            "key": "YOUR_PREMIUM_KEY",
+            "key": "KEY",
             "expiry": "2027-12-31",
             "type": "premium",
             "max_devices": 5,
