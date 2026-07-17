@@ -1,27 +1,19 @@
 {
     "status": "ON",
-    "max_devices": 3,
     "keys": [
         {
-            "key": "TEST_KEY_001",
-            "expiry": "2026-12-31",
-            "max_devices": 3,
-            "type": "PREMIUM",
-            "offset": 2
+            "key": "YOUR_PREMIUM_KEY",
+            "expiry": "2025-12-31",
+            "type": "premium",
+            "max_devices": 5,
+            "devices": {}
         },
         {
-            "key": "BASIC_KEY_001",
-            "expiry": "2026-12-31",
+            "key": "YOUR_FREE_KEY",
+            "expiry": "2025-06-30",
+            "type": "free",
             "max_devices": 1,
-            "type": "FREE",
-            "offset": 0
-        },
-        {
-            "key": "PRO_KEY_001",
-            "expiry": "2026-12-31",
-            "max_devices": 2,
-            "type": "PREMIUM",
-            "offset": 1
+            "devices": {}
         }
     ]
 }
