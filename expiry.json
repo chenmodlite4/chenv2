@@ -3,7 +3,7 @@
     "keys": [
         {
             "key": "YOUR_PREMIUM_KEY",
-            "expiry": "2025-12-31",
+            "expiry": "2027-12-31",
             "type": "premium",
             "max_devices": 5,
             "devices": {}
