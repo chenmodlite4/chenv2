@@ -4,8 +4,8 @@
         {
             "key": "CHENFREE-3DAY",
             "expiry": "2026-07-23",
-            "type": "premium",
-            "max_devices": 5,
+            "type": "free",
+            "max_devices": 500,
             "devices": {}
         },
         {
