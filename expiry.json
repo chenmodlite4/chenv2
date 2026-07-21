@@ -3,7 +3,7 @@
     "keys": [
         {
             "key": "CHENFREE-3DAY",
-            "expiry": "2027-07-23",
+            "expiry": "2026-07-23",
             "type": "premium",
             "max_devices": 5,
             "devices": {}
