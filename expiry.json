@@ -9,9 +9,9 @@
             "devices": {}
         },
         {
-            "key": "YOUR_FREE_KEY",
-            "expiry": "2025-06-30",
-            "type": "free",
+            "key": "sona",
+            "expiry": "2029-06-30",
+            "type": "private",
             "max_devices": 1,
             "devices": {}
         }
