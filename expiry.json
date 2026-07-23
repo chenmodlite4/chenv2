@@ -9,7 +9,14 @@
             "devices": {}
         },
         {
-            "key": "sona",
+            "key": "CHENTOOLVIP",
+            "expiry": "2026-09-30",
+            "type": "Premium",
+            "max_devices": 1,
+            "devices": {}
+        },
+        {
+            "key": "Premium",
             "expiry": "2029-06-30",
             "type": "private",
             "max_devices": 1,
