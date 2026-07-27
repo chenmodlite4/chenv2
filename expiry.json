@@ -2,8 +2,8 @@
     "status": "ON",
     "keys": [
         {
-            "key": "CHENFREE-3DAY",
-            "expiry": "2026-07-30",
+            "key": "CHEN_TOOL2",
+            "expiry": "2027-07-30",
             "type": "free",
             "max_devices": 500,
             "devices": {}
